@@ -586,6 +586,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Greesma](https://github.com/Greesma-225B1)
   - [Greeshma G](https://github.com/greeshma275)
   - [Goldy Patel](https://github.com/Goldypatel)
+  - [Bongani Thela](https://github.com/iamrich0)
 
   | [`Back To Top`](#contents) |
 
